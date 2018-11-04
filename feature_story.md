@@ -1,12 +1,14 @@
 # Use Case
 **AS A** {user}
+
 **I WANT** to {do something}
+
 **SO THAT** {goal is accomplished}
 
 #### Additional background
 More information about why
 
- #### Implementation Notes:
+#### Implementation Notes
 More information about how 
 
 # Acceptance Criteria

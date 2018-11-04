@@ -9,7 +9,7 @@ This template is to be used for defects that customers have experienced in the f
 * Customer / username
 * Discovered in Product version
 
-## {Defect title or Name}
+## {Defect title or name}
 ### Observed behvaior
 {Describe what is wrong}
 
