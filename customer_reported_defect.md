@@ -30,7 +30,7 @@ This template is to be used for defects that customers have experienced in the f
 ### Lead customer
 **Customer:** {Customer ID or business name}
 
-**Username:** {User at customer reporting the issue
+**Username:** {User at customer reporting the issue}
 
 **Support Case:** {Case number, or link to case in support tracking system if possible.}
 
